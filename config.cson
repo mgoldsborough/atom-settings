@@ -1,0 +1,15 @@
+"*":
+  core:
+    themes: [
+      "atom-dark-ui"
+      "base16-tomorrow-dark-theme"
+    ]
+  editor:
+    fontSize: 10
+    invisibles: {}
+    preferredLineLength: 120
+    tabLength: 4
+  "exception-reporting":
+    userId: "8e584ea5-100f-1615-3f71-2ea120a25e70"
+  welcome:
+    showOnStartup: false
